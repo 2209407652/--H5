@@ -1,0 +1,54 @@
+.index .index-search.data-v-57280228 {
+  display: flex;
+  align-items: center;
+  height: 70rpx;
+  margin: 70rpx 30rpx 30rpx 30rpx;
+  background-color: #f7f7f7;
+  border-radius: 35rpx;
+}
+.index .index-search text.data-v-57280228 {
+  font-size: 26rpx;
+  margin: 0px 28rpx;
+}
+.index .index-search input.data-v-57280228 {
+  font-size: 28rpx;
+  flex: 1;
+}
+.index .index-list.data-v-57280228 {
+  margin: 0 30rpx;
+}
+.index .index-list .index-list-item.data-v-57280228 {
+  margin-bottom: 34rpx;
+  display: flex;
+}
+.index .index-list .index-list-item .index-list-img.data-v-57280228 {
+  width: 212rpx;
+  height: 212rpx;
+  position: relative;
+  border-radius: 30rpx;
+  overflow: hidden;
+  margin-right: 22rpx;
+}
+.index .index-list .index-list-item .index-list-img image.data-v-57280228 {
+  width: 100%;
+  height: 100%;
+}
+.index .index-list .index-list-item .index-list-img text.data-v-57280228 {
+  position: absolute;
+  left: 12rpx;
+  bottom: 16rpx;
+  color: #fff;
+  font-size: 20rpx;
+}
+.index .index-list .index-list-item .index-list-text.data-v-57280228 {
+  width: calc(100% - 212rpx);
+  font-size: 24rpx;
+  line-height: 66rpx;
+  overflow: hidden;
+}
+.index .index-list .index-list-item .index-list-text .index-list-text-item.data-v-57280228 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
